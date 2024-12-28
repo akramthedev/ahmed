@@ -5,22 +5,22 @@ const Footer = () => {
     <footer className="bg-blue-500 text-white flex flex-col items-center p-5">
       <ul className="flex justify-center gap-4 my-4">
         <li>
-            <a href="#" className="text-2xl hover:text-blue-300 transition">
+            <a href="https://www.instagram.com/" target="_blank"  className="text-2xl hover:text-blue-300 transition">
             <i class="fa-brands fa-instagram"></i>
             </a>
         </li>
         <li>
-          <a href="#" className="text-2xl hover:text-blue-300 transition">
+          <a href="https://www.linkedin.com/" target="_blank" className="text-2xl hover:text-blue-300 transition">
           <i class="fa-brands fa-linkedin"></i>
           </a>
         </li>
         <li>
-          <a href="#" className="text-2xl hover:text-blue-300 transition">
+          <a href="https://www.facebook.com/" target="_blank" className="text-2xl hover:text-blue-300 transition">
           <i class="fa-brands fa-facebook"></i>
           </a>
         </li>
         <li>
-          <a href="#" className="text-2xl hover:text-blue-300 transition">
+          <a href="https://x.com/" target="_blank" className="text-2xl hover:text-blue-300 transition">
           <i class="fa-brands fa-twitter"></i>
           </a>
         </li>
