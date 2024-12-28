@@ -1,11 +1,6 @@
 import React from 'react';
-import img from '../images/Web-developer.svg';
-import { Link } from 'react-router-dom';
 import Cap2 from '../images/cap2.jpg'
 import Cap3 from '../images/cap3.jpg'
-import kws from '../images/clients/kws.png';
-import geps from '../images/clients/geps.png';
-import protergia from '../images/clients/protergia.png';
 
 const clientImage = {
     height: '7rem',
