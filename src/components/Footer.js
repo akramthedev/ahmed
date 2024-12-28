@@ -1,5 +1,4 @@
 import React from "react";
-import { IonIcon } from "@ionic/react";
 
 const Footer = () => {
   return (
