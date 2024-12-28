@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from 'react';
 import NavLinks from '../Navbar/NavLinks';
-import Logo from '../../images/clients/logo.png'
 import './index.css';
 
 
