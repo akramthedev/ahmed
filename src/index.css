@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+}
+
+.hero {
+  background: url(./images/hero-bg.svg) top center no-repeat;
+  background-size: cover;
+}
+
+.footer {
+  background: url(./images/footer.svg) top center no-repeat;
+  background-size: cover;
+}
+.cta {
+  background: linear-gradient(rgba(2, 2, 2, 0.7), rgba(0, 0, 0, 0.7)), url("./images/Jojo.jpg") fixed center center;
+  background-repeat: no-repeat; /* Empêche la répétition de l'image */
+  background-size: 100% 100%; /* Adapte l'image pour occuper toute la largeur et la hauteur */
+  height: 100%; /* Définit la hauteur à 100% */
+  width: 100%; /* Si "100M" est une unité personnalisée, corrigez-la */
+  background-size: cover;
+}
+
+
+
+
+ul p{
+  text-align: left !important;
+}
+
+
+
+.sfoosgoosdg{
+  margin: 0 auto;
+}
+
+.uhsugshufoguosfuog{
+  font-weight: 400;
+  color: rgb(196, 196, 196);
+  font-size: 18px;
+}
+
+.esgsfhghsfgosoug{
+  color: rgb(17, 114, 250);
+  font-size: 1.3rem;
+  font-weight: 800;
+  margin-left: 0.7rem;
+}
+
+.fsjogsfuogsfuoogu{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.sfihshugusgushughsd{
+  height: 50px;
+  width: 100%;
+  margin-top: 1rem;
+  cursor: pointer;
+  border-radius: 0.5rem;
+  outline: none;
+  border: none;
+  background-color: rgb(217, 233, 255);
+  color: rgb(0, 80, 192);
+
+}
