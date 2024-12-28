@@ -1,9 +1,4 @@
 import React from 'react';
-import Cap2 from '../images/cap2.jpg'
-import img from '../images/web.svg'; 
-import img2 from '../images/app.svg';
-import img3 from '../images/hosting.svg';
-import img4 from '../images/consultation.svg';
 import Ma from '../images/MA.png';
 const Services = () => {
 
