@@ -38,6 +38,10 @@ ul p{
 
 .sfoosgoosdg{
   margin: 0 auto;
+  height: 200px;
+  width: auto;
+  object-fit: cover;
+  border-radius: 1.5rem !important;
 }
 
 .uhsugshufoguosfuog{
